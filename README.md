@@ -5,6 +5,7 @@ Maintainer: chadapohn.chaosrikul@gmail.com
 CAP protein contains specific dinucleotide frequencies and it locates at the start site of transcripts. We'd like to test whether our lab protocal able to capture the CAP protein. So we performed Fisher Exact Test to compare 5'capped and random dinucleotide positions.
 
 The main files are:
+
 * `dint_freq/`
   - `random_nt.ipynb`
   - `fisher_exact_test.ipynb`
@@ -13,12 +14,15 @@ The main files are:
 We'd like to find out whether the occupancies of transcriptomic factors including Nucleosome, Elongating RNA Polymerase II, Ribosome can be used to determine the transcriptions start site
 
 The main file is:
+
 * `occupancy_plots.ipynb`
 
 
 ## Fisher Exact Test
 Maintainer: pavita.kae@biotec.or.th
+
 The main files are:
+
 * `fisherExactTest/`
   - `fasta.pl`
   - `retrive.pl`
