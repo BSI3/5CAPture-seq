@@ -1,8 +1,9 @@
 ## 5CAPture-seq
 
 ### Determining the Start Site of 5'Capped Transcripts
-Maintainer: chadapohn.chaosrikul@gmail.com
 -----
+Maintainer: chadapohn.chaosrikul@gmail.com
+
 #### Analysis of Dinucleoties Frequencies
 CAP protein contains specific dinucleotide frequencies and it locates at the start site of transcripts. We'd like to find out whether our lab protocal able to capture the CAP protein. So we performed Fisher Exact Test to compare 5'capped and random dinucleotides positions.
 
@@ -18,5 +19,6 @@ The main file is:
 * `occupancy_plots.ipynb`
 
 ### Fisher Exact Test
+-----
 Maintainer: pavita.kae@biotec.or.th
 
